@@ -1,3 +1,5 @@
+
+
 [//]: # (title: Enum classes)
 
 The most basic use case for enum classes is the implementation of type-safe enums:
